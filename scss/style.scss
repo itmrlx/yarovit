@@ -670,3 +670,29 @@ body{
 .content{
 	padding: 0 15px 15px;
 }
+
+// products
+.products{
+	.product{
+		text-align: center;
+		margin-bottom: 30px;
+		@media (max-width: 991px) {
+			width: 50%;
+		}
+		@media (max-width: 767px) {
+			width: 100%;
+		}
+		img{
+			border: 1px solid #eaeaea;
+			width: 100%;
+		}
+		.title{
+			font-size: 14px;
+			text-align: center;
+			text-transform: uppercase;
+			line-height: 15px;
+			height: 30px;
+			overflow: hidden;
+		}
+	}
+}
