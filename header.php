@@ -45,7 +45,7 @@
 					</ul>
 				</div>
 				<div class="col-xs-2 callback-container">
-					<a href="#" class="callback">Заказать<br>звонок</a>
+					<a href="#fform" class="callback fancybox" onclick="fform('Заказать звонок','Заказ звонка');">Заказать<br>звонок</a>
 				</div>
 			</div>
 		</div>

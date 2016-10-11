@@ -64,8 +64,6 @@ function send_form (id, file, message) {
 		return false;
 	});
 }
-send_form('form-price', 'phpform', 'Спасибо, мы отправи Вам прайс');
-send_form('form-footer', 'phpform', 'Спасибо, мы с Вами свяжемся');
 
 // change form title
 function fform(title, value) {
