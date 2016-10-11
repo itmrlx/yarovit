@@ -31,6 +31,11 @@
 					<a href="#" class="logo"></a>
 				</div>
 				<div class="col-xs-8 menu-container">
+					<div class="burger-menu">
+						<span></span>
+						<span></span>
+						<span></span>
+					</div>
 					<ul class="pro-menu">
 						<li class="current-menu-item"><a href="#">Главная</a></li>
 						<li><a href="#">Фрукты и овощи</a></li>
